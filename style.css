@@ -3,9 +3,33 @@
 display: flex;
    
 }
+.container-fluide2{
+    position: absolute;
+    display: flex;
+    align-items: center;
+   
+}
+.card{
+    top: 6rem;
+    left: 5rem;
+   
+   
+}
 .collapse {
-    margin-left: 57vw;
+    margin-left: 45vw;
+    
 } 
+.navbar a{
+    color: black;
+    font-size: 20px;
+
+}
+.nav-item a{
+    color: black;
+    font-size: 20px;
+}
+ 
+
 .container2{
     position: relative;
     height: 80%;
@@ -47,8 +71,8 @@ h2{
 }
 .container6{
     position: absolute;
-   top: 400px;
-   left: 1065px;
+   top: 500px;
+   left: 45px;
 
 }
 
